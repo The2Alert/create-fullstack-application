@@ -2,11 +2,11 @@
 <h2>Installing</h2>
 <p>Preliminary requirements:</p>
 <ul>
-    <li><a href="https://nodejs.org/"><code>Node.js</code></a> >= <code>16.14.2</code></li>
-    <li><a href="https://www.npmjs.com/"><code>npm</code></a> >= <code>8.16.0</code></li>
-    <li><a href="https://www.docker.com/"><code>Docker</code></a> >= <code>20.10.14</code></li>
-    <li><a href="https://docs.docker.com/compose/"><code>docker-compose</code></a> >= <code>1.29.2</code></li>
-    <li><a href="https://www.gnu.org/software/make/"><code>GNU Make</code></a> >= <code>3.81</code></li>
+    <li><a href="https://nodejs.org/">Node.js</a> >= <code>16.14.2</code></li>
+    <li><a href="https://www.npmjs.com/">npm</a> >= <code>8.16.0</code></li>
+    <li><a href="https://www.docker.com/">Docker</a> >= <code>20.10.14</code></li>
+    <li><a href="https://docs.docker.com/compose/">docker-compose</a> >= <code>1.29.2</code></li>
+    <li><a href="https://www.gnu.org/software/make/">GNU Make</a> >= <code>3.81</code></li>
 </ul>
 <p>Installing dependencies:</p>
 <pre>npm i</pre>
